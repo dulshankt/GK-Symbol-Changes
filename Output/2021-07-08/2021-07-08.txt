@@ -1,0 +1,32 @@
+07/08/2021
+
+06/01/2021
+
+
+ 
+ Symbol: IPOE (Merger)
+|| Current Symbol || New Symbol ||
+ | IPOE | SOFI |
+|| Current CUSIP || New CUSIP ||
+ |  | 83406F102 |
+|| Current ISIN || New ISIN ||
+ | KYG8252P1054 | US83406F1021 |
+
+!SOFI.png!
+ 
+
+05/02/2021
+
+
+ 
+ Symbol: BLDE (Name/CUSIP/Symbol Change)
+
+|| Current CUSIP || New CUSIP ||
+ |  | 092667104 |
+|| Current ISIN || New ISIN ||
+ | US30217C1099 | US0926671043 |
+|| Current Description || New Description ||
+ | BLADE AIR MOBILITY INC | BLADE URBAN AIR MOBILITY INC |
+!BLDE.png!
+ 
+
